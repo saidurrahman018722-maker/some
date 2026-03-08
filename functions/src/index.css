@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body,html{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: antiquewhite;
+}
+
+#btn{
+  color: antiquewhite;
+  background-color: brown;
+  border: none;
+  padding: 5px 10px;
+  margin: 20px;
+  border-radius: 20px;;
+}
